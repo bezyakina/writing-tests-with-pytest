@@ -1,4 +1,4 @@
-# Instructions for running automated tests in PyTest
+# Instructions for running automated tests with PyTest
 
 1) Clone the repository with `git clone [repository link]` command
 2) Create a virtual environment with `python3 -m venv env` command
